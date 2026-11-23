@@ -1,0 +1,6 @@
+{
+  "name": "FRIENDLY MEDIA",
+  "description": "Connect. Share. Discover. An international social networking platform for creators, communities, and real-time conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
